@@ -5,13 +5,15 @@ streamlit.title('My parents New Healthy Diner')
 
 streamlit.header('Breakfast Menu')
 
-streamlit.text('Omega 3 & Blueberry')
+streamlit.text('🥣Omega 3 & Blueberry')
 
-streamlit.text('kale, Spinach & Rocket smoothie')
+streamlit.text('🥗 kale, Spinach & Rocket smoothie')
                
-streamlit.text('Hard-Boiled Free Range Egg')
+streamlit.text('🐔Hard-Boiled Free Range Egg')
 
+streamlit.text(' 🥑🍞 Avocato Toast')
 
-
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+ 
                
           
